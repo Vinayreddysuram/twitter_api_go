@@ -53,13 +53,28 @@ To use the Twitter API, you'll need to create a Twitter Developer account and ob
 
 1. **Posting the Tweet**:
    - The program allows users to input text for a new tweet and posts it to Twitter.
+  
+     <img width="625" alt="image" src="https://github.com/user-attachments/assets/27bb0c1c-91e8-4a66-a558-9a67ed7626a9">
+
    - **Verification**: After posting, the user can verify the tweet appears on their Twitter feed.
+  
+     <img width="625" alt="image" src="https://github.com/user-attachments/assets/78a953f5-2c3b-4b18-bce2-fc1fb7f37490">
+
 
 2. **Delete the Tweet**:
    - Users can enter the tweet ID of the tweet they want to delete.
    - The program sends a request to delete the specified tweet.
+  
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/60b79c9d-bd34-45af-8362-e6804e23ec01">
+
    - **Verification**: Users can check their Twitter feed to confirm the tweet has been deleted.
 
-3. **Error Handling**:
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/640edc1d-5432-46dc-bb68-7f5a9457bf83">
+
+
+4. **Error Handling**:
    - The program includes robust error handling for various scenarios, including unauthorized access, rate limits, and tweet not found errors.
    - Users receive informative error messages based on the API responses.
+  
+     <img width="625" alt="image" src="https://github.com/user-attachments/assets/e89301a5-93ed-4897-aee8-e14299f6e1ec">
+   <img width="625" alt="image" src="https://github.com/user-attachments/assets/63b36b99-f7b6-4cb7-b24d-ade60444c82c">
