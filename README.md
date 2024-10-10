@@ -8,7 +8,7 @@ This project uses Go to interact with the Twitter API. It provides functionality
 
 - **Post a Tweet**: Allows users to post a new tweet with a specified text.
 - **Delete a Tweet**: Allows users to delete a tweet by providing its ID.
-- **Error Handling**: Includes robust error handling for various API responses, such as unauthorized access, rate limits, and tweet not found errors.
+- **Error Handling**: Includes  error handling for various API responses, such as unauthorized access, rate limits, and tweet not found errors.
 
 ## Prerequisites
 
@@ -73,7 +73,7 @@ To use the Twitter API, you'll need to create a Twitter Developer account and ob
 
 
 4. **Error Handling**:
-   - The program includes robust error handling for various scenarios, including unauthorized access, rate limits, and tweet not found errors.
+   - The program includes error handling for various scenarios, including unauthorized access, rate limits, and tweet not found errors.
    - Users receive informative error messages based on the API responses.
   
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/e89301a5-93ed-4897-aee8-e14299f6e1ec">
