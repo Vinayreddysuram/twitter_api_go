@@ -54,11 +54,11 @@ To use the Twitter API, you'll need to create a Twitter Developer account and ob
 1. **Posting the Tweet**:
    - The program allows users to input text for a new tweet and posts it to Twitter.
   
-     <img width="625" alt="image" src="https://github.com/user-attachments/assets/27bb0c1c-91e8-4a66-a558-9a67ed7626a9">
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/27bb0c1c-91e8-4a66-a558-9a67ed7626a9">
 
    - **Verification**: After posting, the user can verify the tweet appears on their Twitter feed.
   
-     <img width="625" alt="image" src="https://github.com/user-attachments/assets/78a953f5-2c3b-4b18-bce2-fc1fb7f37490">
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/78a953f5-2c3b-4b18-bce2-fc1fb7f37490">
 
 
 2. **Delete the Tweet**:
@@ -76,5 +76,8 @@ To use the Twitter API, you'll need to create a Twitter Developer account and ob
    - The program includes robust error handling for various scenarios, including unauthorized access, rate limits, and tweet not found errors.
    - Users receive informative error messages based on the API responses.
   
-     <img width="625" alt="image" src="https://github.com/user-attachments/assets/e89301a5-93ed-4897-aee8-e14299f6e1ec">
-   <img width="625" alt="image" src="https://github.com/user-attachments/assets/63b36b99-f7b6-4cb7-b24d-ade60444c82c">
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/e89301a5-93ed-4897-aee8-e14299f6e1ec">
+
+
+
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/63b36b99-f7b6-4cb7-b24d-ade60444c82c">
